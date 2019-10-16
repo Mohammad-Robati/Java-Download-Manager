@@ -1,0 +1,20 @@
+Download
+New Download
+Start
+Pause 
+Cancel
+Remove
+Settings
+Export
+Exit
+Help
+Language
+English
+Farsi
+Details
+Processing
+Completed
+Queues
+By Date
+By Name
+By Size
